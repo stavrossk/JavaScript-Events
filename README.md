@@ -1,4 +1,4 @@
 JavaScript-Events
 =================
 
-A long list of JavaScript events.
+  A list of JavaScript events regarding web pages, forms and keyboard or mouse input.
