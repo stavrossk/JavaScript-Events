@@ -1,4 +1,3 @@
-
 addEvent(window, 'load',
           function(event) 
           {
